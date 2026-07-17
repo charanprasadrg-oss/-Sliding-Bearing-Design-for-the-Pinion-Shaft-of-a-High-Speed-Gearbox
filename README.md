@@ -1,0 +1,1 @@
+MATLAB-based hydrodynamic analysis of sliding bearings for a high-speed gearbox pinion shaft. Uses simplified journal-bearing theory to compute minimum film thickness, lubricant flow rate and frictional power loss versus relative clearance for tilting-pad, offset-halves and three-lobe designs, and plots comparative curves for concept selection.
